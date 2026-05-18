@@ -43,7 +43,7 @@ Namma-Kathey/
 │── requirements.txt
 ⚙️ Installation
 Clone the Repository
-git clone https://github.com/your-username/namma-kathey.git
+git clone https://github.com/aishwaryamaishwarya191/namma-kathey.git
 Navigate to Project Folder
 cd namma-kathey
 Install Dependencies
